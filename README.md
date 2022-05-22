@@ -11,7 +11,7 @@
   * NodeMon
   
   **Admin:**
-     * axiox
+     - axiox
      * react-circular-progressbar
      * react-router-dom
      * recharts
